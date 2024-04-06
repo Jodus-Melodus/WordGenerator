@@ -1,0 +1,14 @@
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\bin\Debug\net8.0\WordGenerator.exe
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\bin\Debug\net8.0\WordGenerator.deps.json
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\bin\Debug\net8.0\WordGenerator.runtimeconfig.json
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\bin\Debug\net8.0\WordGenerator.dll
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\bin\Debug\net8.0\WordGenerator.pdb
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.AssemblyInfoInputs.cache
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.AssemblyInfo.cs
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.dll
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\refint\WordGenerator.dll
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.pdb
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\WordGenerator.genruntimeconfig.cache
+C:\Users\Philip Gricius\desktop\Programming\DataStructures&Algorithms\WordGenerator\obj\Debug\net8.0\ref\WordGenerator.dll
